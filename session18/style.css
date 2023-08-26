@@ -1,0 +1,50 @@
+
+
+h1 {
+  background: #85a0be;
+  color: #354453;
+  line-height: 1.6;
+  font-family: 'Roboto Condensed', sans-serif;
+  padding: 1rem;
+}
+
+body {
+  background-color: rgb(59, 253, 253);
+}
+
+header {
+  background-color: rgb(59, 253, 253);
+}
+
+nav {
+  background-color: rgb(219, 247, 247);
+}
+
+
+b {
+  color: rgb(250, 82, 5);
+}
+
+u {
+  color: rgb(247, 183, 7);
+}
+
+i {
+  color: rgb(248, 33, 166);
+}
+
+h2 {
+  background-color: rgb(219, 247, 247);
+}
+
+form {
+  background-color: rgb(61, 255, 255);
+}
+
+h2 {
+  background-color: rgb(132, 230, 230);
+}
+  
+p {
+    color: red;
+  }
